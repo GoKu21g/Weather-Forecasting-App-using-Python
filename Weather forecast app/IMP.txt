@@ -1,0 +1,1 @@
+You might have to change the path of the pictures for the app to run
